@@ -1,0 +1,4 @@
+1.  Where the data comes from? API or database?
+
+2. Missing Data:
+	Load (energy consumption) data for buildings with PV installations (ESIROI, Enerpos, Dpt 1_2).
